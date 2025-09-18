@@ -91,8 +91,7 @@ python backend.py
 python frontend.py
 ```
 
-## IMPORTANT
-### Make sure backend python script is running in a separate terminal
+
 
 
 
